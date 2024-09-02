@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 class Checkbook:
     def __init__(self):
         self.balance = 0.0
